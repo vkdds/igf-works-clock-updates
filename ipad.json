@@ -1,0 +1,6 @@
+{
+  "app": "IGF Works Clock for iPad",
+  "version": "0.3.1",
+  "build": 14,
+  "note": "The newest version ready in TestFlight. The iPad compares it with the version installed and, when this one is newer, asks for the update."
+}
